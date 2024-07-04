@@ -6,7 +6,7 @@ class TreeNode:
         self.right = right
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
-        # reculsive DFS
+        # reculsive BFS
         if root is None:
             return True
         return self.innerSymmetric(root.left, root.right)
