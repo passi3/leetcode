@@ -9,6 +9,7 @@ class Solution:
         if root is None:
             return 0 # 빈 노드는 깊이 0 반환
         
+        # recursive algorithm
         if not root.left and not root.right:
             return 1 # 루트가 리프 노드인 경우
 
