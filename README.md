@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/passi3/Algorithm/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/passi3/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/passi3/Algorithm/tree/master/0136-single-number) |
+| [2058-concatenation-of-array](https://github.com/passi3/Algorithm/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/passi3/Algorithm/tree/master/0067-add-binary) |
+| [2058-concatenation-of-array](https://github.com/passi3/Algorithm/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
