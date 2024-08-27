@@ -1,8 +1,14 @@
+from collections import defaultdict
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
+        freq = defaultdict(int)
+
+        for num in nums:
+            freq[num] += 1
+
         result = 0
-        for i in range(len(nums)):
-            for j in range(i+1, len(nums)):
-                if nums[i] == nums[j]:
-                    result += 1
+
+        for count in freq.values():
+            result += count * (count -1) // 2
+
         return result
