@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/passi3/Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/passi3/Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/passi3/Algorithm/tree/master/0070-climbing-stairs) |
+| [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/passi3/Algorithm/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/passi3/Algorithm/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/passi3/Algorithm/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/passi3/Algorithm/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/passi3/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/passi3/Algorithm/tree/master/0136-single-number) |
+| [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/passi3/Algorithm/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/passi3/Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/passi3/Algorithm/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -181,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/passi3/Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
