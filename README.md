@@ -192,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/passi3/Algorithm/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
