@@ -202,4 +202,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/passi3/Algorithm/tree/master/0175-combine-two-tables) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/passi3/Algorithm/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
