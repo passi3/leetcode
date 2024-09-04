@@ -3,6 +3,5 @@ class Solution:
         prev = 0
         for account in accounts:
             now = sum(account)
-            if prev <= now:
-                prev = now
+            prev = max(prev, now)
         return prev
