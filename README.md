@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/passi3/Algorithm/tree/master/0136-single-number) |
 | [1580-shuffle-the-array](https://github.com/passi3/Algorithm/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/passi3/Algorithm/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/passi3/Algorithm/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/passi3/Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/passi3/Algorithm/tree/master/3194-find-words-containing-character) |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/passi3/Algorithm/tree/master/0175-combine-two-tables) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/passi3/Algorithm/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/passi3/Algorithm/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
