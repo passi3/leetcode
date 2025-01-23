@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/passi3/Algorithm_python/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/passi3/Algorithm_python/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/passi3/Algorithm_python/tree/master/0620-not-boring-movies) |
+| [0627-swap-salary](https://github.com/passi3/Algorithm_python/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/passi3/Algorithm_python/tree/master/1179-game-play-analysis-i) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/passi3/Algorithm/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Matrix
