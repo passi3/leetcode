@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/passi3/Algorithm_python/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/passi3/Algorithm_python/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/passi3/Algorithm_python/tree/master/1664-find-users-with-valid-e-mails) |
+| [1670-patients-with-a-condition](https://github.com/passi3/Algorithm_python/tree/master/1670-patients-with-a-condition) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/passi3/Algorithm/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Matrix
 |  |
