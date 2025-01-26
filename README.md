@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/passi3/Algorithm_python/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/passi3/Algorithm_python/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/passi3/Algorithm_python/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1625-group-sold-products-by-the-date](https://github.com/passi3/Algorithm_python/tree/master/1625-group-sold-products-by-the-date) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/passi3/Algorithm/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Matrix
 |  |
