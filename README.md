@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/passi3/Algorithm_python/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/passi3/Algorithm_python/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/passi3/Algorithm_python/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/passi3/Algorithm_python/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/passi3/Algorithm/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Matrix
 |  |
