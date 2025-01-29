@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1892-find-total-time-spent-by-each-employee](https://github.com/passi3/Algorithm_python/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/passi3/Algorithm_python/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/passi3/Algorithm_python/tree/master/1948-rearrange-products-table) |
+| [2024-calculate-special-bonus](https://github.com/passi3/Algorithm_python/tree/master/2024-calculate-special-bonus) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/passi3/Algorithm/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Matrix
 |  |
