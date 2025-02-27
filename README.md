@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-employees-with-missing-information](https://github.com/passi3/Algorithm_python/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/passi3/Algorithm_python/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/passi3/Algorithm/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [3530-odd-and-even-transactions](https://github.com/passi3/leetcode/tree/master/3530-odd-and-even-transactions) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/passi3/Algorithm_python/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Matrix
 |  |
