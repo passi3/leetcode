@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/passi3/Algorithm_python/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/passi3/Algorithm_python/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/passi3/Algorithm_python/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1480-movie-rating](https://github.com/passi3/leetcode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/passi3/Algorithm_python/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/passi3/Algorithm_python/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/passi3/Algorithm_python/tree/master/1541-top-travellers) |
