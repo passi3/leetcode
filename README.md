@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-seasonal-sales-analysis](https://github.com/passi3/leetcode/tree/master/3898-seasonal-sales-analysis) |
 | [3910-find-books-with-no-available-copies](https://github.com/passi3/Algorithm_python/tree/master/3910-find-books-with-no-available-copies) |
 | [3921-find-consistently-improving-employees](https://github.com/passi3/Algorithm_python/tree/master/3921-find-consistently-improving-employees) |
+| [3932-find-covid-recovery-patients](https://github.com/passi3/Algorithm_python/tree/master/3932-find-covid-recovery-patients) |
 ## Matrix
 |  |
 | ------- |
