@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/passi3/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/passi3/Algorithm/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/passi3/Algorithm_python/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/passi3/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/passi3/leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/passi3/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/passi3/Algorithm/tree/master/1580-shuffle-the-array) |
@@ -345,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/passi3/leetcode/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/passi3/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
