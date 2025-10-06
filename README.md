@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/passi3/Algorithm_python/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/passi3/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/passi3/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1970-sorting-the-sentence](https://github.com/passi3/leetcode/tree/master/1970-sorting-the-sentence) |
 | [3778-transform-array-by-parity](https://github.com/passi3/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Tree
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/passi3/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/passi3/Algorithm_python/tree/master/1894-merge-strings-alternately) |
+| [1970-sorting-the-sentence](https://github.com/passi3/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/passi3/Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/passi3/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2470-removing-stars-from-a-string](https://github.com/passi3/leetcode/tree/master/2470-removing-stars-from-a-string) |
