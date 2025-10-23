@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/passi3/Algorithm/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/passi3/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/passi3/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/passi3/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/passi3/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/passi3/leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/passi3/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/passi3/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/passi3/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
