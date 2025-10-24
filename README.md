@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/passi3/Algorithm/tree/master/0069-sqrtx) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/passi3/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/passi3/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/passi3/Algorithm/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/passi3/Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/passi3/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/passi3/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/passi3/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/passi3/Algorithm/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/passi3/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/passi3/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1970-sorting-the-sentence](https://github.com/passi3/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/passi3/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3778-transform-array-by-parity](https://github.com/passi3/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Tree
 |  |
