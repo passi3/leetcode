@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/passi3/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/passi3/Algorithm/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/passi3/Algorithm/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/passi3/leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/passi3/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/passi3/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/passi3/Algorithm/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/passi3/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/passi3/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/passi3/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3226-minimum-number-game](https://github.com/passi3/leetcode/tree/master/3226-minimum-number-game) |
 | [3778-transform-array-by-parity](https://github.com/passi3/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Tree
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/passi3/Algorithm/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/passi3/Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/passi3/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3226-minimum-number-game](https://github.com/passi3/leetcode/tree/master/3226-minimum-number-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/passi3/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/passi3/leetcode/tree/master/4058-compute-alternating-sum) |
 ## Dynamic Programming
@@ -452,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/passi3/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/passi3/leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
