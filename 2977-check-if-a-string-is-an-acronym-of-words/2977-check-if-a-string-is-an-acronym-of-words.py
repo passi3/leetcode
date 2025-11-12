@@ -1,6 +1,4 @@
 class Solution:
     def isAcronym(self, words: List[str], s: str) -> bool:
-        acronym = ""
-        for word in words:
-            acronym += word[0]
+        acronym = "".join(word[0] for word in words)
         return acronym == s
