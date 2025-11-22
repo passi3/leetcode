@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/passi3/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/passi3/leetcode/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
+| [1313-decompress-run-length-encoded-list](https://github.com/passi3/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/passi3/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/passi3/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/passi3/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
