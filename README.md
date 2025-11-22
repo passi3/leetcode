@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/passi3/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/passi3/Algorithm/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/passi3/Algorithm/tree/master/2491-smallest-even-multiple) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/passi3/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2556-convert-the-temperature](https://github.com/passi3/Algorithm/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/passi3/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2752-sum-multiples](https://github.com/passi3/leetcode/tree/master/2752-sum-multiples) |
