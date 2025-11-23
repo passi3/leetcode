@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/passi3/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/passi3/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/passi3/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1806-count-of-matches-in-tournament](https://github.com/passi3/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/passi3/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/passi3/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
