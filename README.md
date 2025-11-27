@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/passi3/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/passi3/Algorithm/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/passi3/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3151-special-array-i](https://github.com/passi3/leetcode/tree/master/3151-special-array-i) |
 | [3194-find-words-containing-character](https://github.com/passi3/Algorithm/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/passi3/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3226-minimum-number-game](https://github.com/passi3/leetcode/tree/master/3226-minimum-number-game) |
