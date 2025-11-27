@@ -1,3 +1,4 @@
 class Solution:
     def minimizedStringLength(self, s: str) -> int:
-        return len(set(s))
+        setS = set(s)
+        return len(setS)
