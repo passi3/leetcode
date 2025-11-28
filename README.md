@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/passi3/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/passi3/leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1844-replace-all-digits-with-characters](https://github.com/passi3/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1894-merge-strings-alternately](https://github.com/passi3/Algorithm_python/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/passi3/leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/passi3/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
