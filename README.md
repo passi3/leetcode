@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/passi3/leetcode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/passi3/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/passi3/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1720-decode-xored-array](https://github.com/passi3/leetcode/tree/master/1720-decode-xored-array) |
 | [1773-count-items-matching-a-rule](https://github.com/passi3/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/passi3/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/passi3/leetcode/tree/master/0191-number-of-1-bits) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/passi3/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/passi3/leetcode/tree/master/1720-decode-xored-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/passi3/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/passi3/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
