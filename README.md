@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/passi3/Algorithm/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/passi3/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/passi3/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/passi3/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3371-harshad-number](https://github.com/passi3/leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/passi3/Algorithm/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/passi3/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/passi3/leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/passi3/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/passi3/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/passi3/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/passi3/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/passi3/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/passi3/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
