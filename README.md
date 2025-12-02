@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/passi3/Algorithm/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/passi3/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/passi3/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/passi3/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1651-shuffle-string](https://github.com/passi3/leetcode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/passi3/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/passi3/leetcode/tree/master/1051-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/passi3/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/passi3/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/passi3/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/passi3/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1777-determine-if-two-strings-are-close](https://github.com/passi3/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1970-sorting-the-sentence](https://github.com/passi3/leetcode/tree/master/1970-sorting-the-sentence) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/passi3/leetcode/tree/master/1436-destination-city) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/passi3/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/passi3/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/passi3/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/passi3/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
