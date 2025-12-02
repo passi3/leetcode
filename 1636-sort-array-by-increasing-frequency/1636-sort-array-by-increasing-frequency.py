@@ -1,16 +1,15 @@
 class Solution:
     def frequencySort(self, nums: List[int]) -> List[int]:
-        valDict = dict()
+        dic = {}
         res = []
-        for num in set(nums):
-            cnt = nums.count(num)
-            if cnt not in valDict.keys():
-                valDict[cnt] = [num]
-            else:
-                valDict[cnt] += [num]
-            valDict[cnt].sort()
-        
-        for cnt in sorted(valDict):
-            res += [num for num in valDict[cnt][::-1] for _ in range(cnt)]
 
+        for num in nums:
+            if num in dic:
+                dic[num] += 1
+            else:
+                dic[num] = 1
+        
+        for item in sorted(dic.items(), key=lambda x: (x[1], -x[0])):
+            res.extend([item[0]] * item[1])
+        
         return res
