@@ -1,10 +1,13 @@
 class Solution:
     def countKeyChanges(self, s: str) -> int:
+        sList = list(s)
+
+        for i in range(len(sList)):
+            sList[i] = sList[i].lower()
+
         cnt = 0
-        for i in range(len(s)-1):
-            diff = abs(ord(s[i]) - ord(s[i+1]))
-            print(diff)
-            if diff != 32 and diff != 0:
+        for i in range(len(sList)-1):
+            if sList[i] != sList[i+1]:
                 cnt += 1
-        
+
         return cnt
