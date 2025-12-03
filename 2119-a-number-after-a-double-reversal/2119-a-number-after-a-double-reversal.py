@@ -1,5 +1,6 @@
 class Solution:
     def isSameAfterReversals(self, num: int) -> bool:
-        numStr = str(num)
-
-        return len(numStr) == len(str(int(numStr[::-1])))
+        
+        if num and num % 10 == 0:
+            return False
+        return True
