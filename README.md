@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/passi3/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/passi3/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/passi3/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/passi3/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3371-harshad-number](https://github.com/passi3/leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/passi3/Algorithm/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/passi3/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/passi3/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/passi3/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/passi3/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/passi3/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
