@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/passi3/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/passi3/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/passi3/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1534-count-good-triplets](https://github.com/passi3/leetcode/tree/master/1534-count-good-triplets) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/passi3/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/passi3/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/passi3/Algorithm/tree/master/1580-shuffle-the-array) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/passi3/leetcode/tree/master/1534-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/passi3/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/passi3/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/passi3/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
