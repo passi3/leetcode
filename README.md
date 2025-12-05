@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/passi3/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/passi3/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/passi3/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2325-decode-the-message](https://github.com/passi3/leetcode/tree/master/2325-decode-the-message) |
 | [2401-count-asterisks](https://github.com/passi3/leetcode/tree/master/2401-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/passi3/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/passi3/leetcode/tree/master/2502-sort-the-people) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/passi3/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/passi3/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/passi3/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2325-decode-the-message](https://github.com/passi3/leetcode/tree/master/2325-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/passi3/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/passi3/leetcode/tree/master/2502-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/passi3/leetcode/tree/master/2716-minimize-string-length) |
