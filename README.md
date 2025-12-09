@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/passi3/Algorithm/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/passi3/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/passi3/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/passi3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3151-special-array-i](https://github.com/passi3/leetcode/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/passi3/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-find-words-containing-character](https://github.com/passi3/Algorithm/tree/master/3194-find-words-containing-character) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/passi3/leetcode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/passi3/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/passi3/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/passi3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/passi3/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3227-find-missing-and-repeated-values](https://github.com/passi3/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/passi3/Algorithm/tree/master/3412-permutation-difference-between-two-strings) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/passi3/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/passi3/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/passi3/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/passi3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/passi3/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/passi3/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
