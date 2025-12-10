@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/passi3/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/passi3/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1720-decode-xored-array](https://github.com/passi3/leetcode/tree/master/1720-decode-xored-array) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/passi3/leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1748-sum-of-unique-elements](https://github.com/passi3/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/passi3/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/passi3/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
