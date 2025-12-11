@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/passi3/leetcode/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/passi3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/passi3/leetcode/tree/master/1051-height-checker) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/passi3/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/passi3/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/passi3/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/passi3/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/passi3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/passi3/Algorithm_python/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/passi3/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/passi3/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/passi3/Algorithm_python/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/passi3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/passi3/leetcode/tree/master/0561-array-partition) |
+| [0905-sort-array-by-parity](https://github.com/passi3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/passi3/leetcode/tree/master/1051-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/passi3/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/passi3/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
