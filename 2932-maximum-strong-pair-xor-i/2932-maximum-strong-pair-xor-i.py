@@ -1,14 +1,14 @@
 class Solution:
     def maximumStrongPairXor(self, nums: List[int]) -> int:
-        res = 0
+        res = -1
+        n = len(nums)
+        nums.sort()
 
-        for i in range(len(nums)):
-            for j in range(i, len(nums)):
-                if abs(nums[i] - nums[j]) <= min(nums[i], nums[j]):
-                    print(nums[i],nums[j])
-                    xor = nums[i]^nums[j]
-                    print(xor)
-                    if xor > res:
-                        res = xor
-        
+        for i in range(n):
+            for j in range(i, n):
+                if nums[j] > 2 * nums[i]:
+                    break
+                    
+                res = max(nums[i] ^ nums[j], res)
+
         return res
