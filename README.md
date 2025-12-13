@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/passi3/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/passi3/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1844-replace-all-digits-with-characters](https://github.com/passi3/leetcode/tree/master/1844-replace-all-digits-with-characters) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/passi3/leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1894-merge-strings-alternately](https://github.com/passi3/Algorithm_python/tree/master/1894-merge-strings-alternately) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/passi3/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/passi3/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
