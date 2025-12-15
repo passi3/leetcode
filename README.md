@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/passi3/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/passi3/leetcode/tree/master/1944-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/passi3/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/passi3/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/passi3/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/passi3/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/passi3/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/passi3/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/passi3/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/passi3/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/passi3/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/passi3/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/passi3/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/passi3/leetcode/tree/master/3028-ant-on-the-boundary) |
