@@ -1,5 +1,8 @@
 class Solution:
     def threeConsecutiveOdds(self, arr: List[int]) -> bool:
+        if len(arr) < 3:
+            return False
+        
         conseq = 0
         for num in arr:
             print(num)
