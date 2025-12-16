@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/passi3/Algorithm/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/passi3/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/passi3/leetcode/tree/master/2502-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/passi3/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/passi3/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/passi3/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/passi3/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/passi3/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/passi3/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/passi3/leetcode/tree/master/2502-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/passi3/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/passi3/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/passi3/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/passi3/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/passi3/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/passi3/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/passi3/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2506-count-pairs-of-similar-strings](https://github.com/passi3/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/passi3/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/passi3/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/passi3/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/passi3/leetcode/tree/master/2325-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/passi3/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/passi3/leetcode/tree/master/2502-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/passi3/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/passi3/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2716-minimize-string-length](https://github.com/passi3/leetcode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/passi3/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/passi3/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/passi3/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/passi3/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2506-count-pairs-of-similar-strings](https://github.com/passi3/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/passi3/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/passi3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/passi3/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
