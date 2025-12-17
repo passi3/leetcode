@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/passi3/leetcode/tree/master/1436-destination-city) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/passi3/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/passi3/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/passi3/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1651-shuffle-string](https://github.com/passi3/leetcode/tree/master/1651-shuffle-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/passi3/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/passi3/leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/passi3/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/passi3/leetcode/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/passi3/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/passi3/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/passi3/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/passi3/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/passi3/leetcode/tree/master/3174-clear-digits) |
