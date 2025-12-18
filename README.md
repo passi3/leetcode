@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/passi3/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/passi3/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/passi3/Algorithm/tree/master/1205-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/passi3/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/passi3/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1436-destination-city](https://github.com/passi3/leetcode/tree/master/1436-destination-city) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/passi3/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/passi3/Algorithm_python/tree/master/0169-majority-element) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/passi3/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/passi3/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/passi3/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1708-design-parking-system](https://github.com/passi3/Algorithm/tree/master/1708-design-parking-system) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/passi3/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/passi3/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/passi3/leetcode/tree/master/0605-can-place-flowers) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/passi3/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/passi3/leetcode/tree/master/1323-maximum-69-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/passi3/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/passi3/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
