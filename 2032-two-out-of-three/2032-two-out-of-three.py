@@ -1,4 +1,10 @@
 class Solution:
     def twoOutOfThree(self, nums1: List[int], nums2: List[int], nums3: List[int]) -> List[int]:
-        s1, s2, s3 = set(nums1), set(nums2), set(nums3)
-        return list((s1 & s2) | (s1 & s3) | (s2 & s3))
+        hash = {}
+        numsAll = [nums1, nums2, nums3]
+
+        for nums in numsAll:
+            for num in set(nums):
+                hash[num] = hash.get(num, 0) + 1
+
+        return [k for k, v in hash.items() if v >= 2]
