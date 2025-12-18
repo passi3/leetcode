@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/passi3/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/passi3/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/passi3/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2363-merge-similar-items](https://github.com/passi3/leetcode/tree/master/2363-merge-similar-items) |
 | [2442-number-of-arithmetic-triplets](https://github.com/passi3/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/passi3/Algorithm/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/passi3/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/passi3/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/passi3/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/passi3/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2363-merge-similar-items](https://github.com/passi3/leetcode/tree/master/2363-merge-similar-items) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/passi3/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-sort-the-people](https://github.com/passi3/leetcode/tree/master/2502-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/passi3/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/passi3/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/passi3/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2325-decode-the-message](https://github.com/passi3/leetcode/tree/master/2325-decode-the-message) |
+| [2363-merge-similar-items](https://github.com/passi3/leetcode/tree/master/2363-merge-similar-items) |
 | [2442-number-of-arithmetic-triplets](https://github.com/passi3/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/passi3/leetcode/tree/master/2502-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/passi3/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
@@ -810,4 +813,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/passi3/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/passi3/leetcode/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
