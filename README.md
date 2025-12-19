@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/passi3/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/passi3/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/passi3/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2103-rings-and-rods](https://github.com/passi3/leetcode/tree/master/2103-rings-and-rods) |
 | [2128-reverse-prefix-of-word](https://github.com/passi3/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/passi3/Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/passi3/leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/passi3/leetcode/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/passi3/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/passi3/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2103-rings-and-rods](https://github.com/passi3/leetcode/tree/master/2103-rings-and-rods) |
 | [2206-divide-array-into-equal-pairs](https://github.com/passi3/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/passi3/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/passi3/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
