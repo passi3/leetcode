@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/passi3/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/passi3/Algorithm/tree/master/1205-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/passi3/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1370-increasing-decreasing-string](https://github.com/passi3/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/passi3/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1436-destination-city](https://github.com/passi3/leetcode/tree/master/1436-destination-city) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/passi3/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/passi3/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1319-unique-number-of-occurrences](https://github.com/passi3/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1370-increasing-decreasing-string](https://github.com/passi3/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/passi3/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1436-destination-city](https://github.com/passi3/leetcode/tree/master/1436-destination-city) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/passi3/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/passi3/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/passi3/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/passi3/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1370-increasing-decreasing-string](https://github.com/passi3/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/passi3/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1708-design-parking-system](https://github.com/passi3/Algorithm/tree/master/1708-design-parking-system) |
