@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/passi3/leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/passi3/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/passi3/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/passi3/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/passi3/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/passi3/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/passi3/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
