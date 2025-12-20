@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/passi3/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2119-a-number-after-a-double-reversal](https://github.com/passi3/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/passi3/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/passi3/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/passi3/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/passi3/Algorithm/tree/master/2383-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/passi3/leetcode/tree/master/2427-number-of-common-factors) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/passi3/Algorithm/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/passi3/Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/passi3/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/passi3/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2470-removing-stars-from-a-string](https://github.com/passi3/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/passi3/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/passi3/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
