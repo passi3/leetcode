@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/passi3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/passi3/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/passi3/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/passi3/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/passi3/leetcode/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/passi3/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/passi3/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/passi3/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/passi3/leetcode/tree/master/2810-faulty-keyboard) |
 | [3028-ant-on-the-boundary](https://github.com/passi3/leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/passi3/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/passi3/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/passi3/leetcode/tree/master/3174-clear-digits) |
 | [3226-minimum-number-game](https://github.com/passi3/leetcode/tree/master/3226-minimum-number-game) |
