@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/passi3/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/passi3/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/passi3/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/passi3/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/passi3/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3731-find-missing-elements](https://github.com/passi3/leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/passi3/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/passi3/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3692-majority-frequency-characters](https://github.com/passi3/leetcode/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/passi3/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/passi3/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/passi3/leetcode/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/passi3/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
