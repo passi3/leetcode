@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/passi3/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/passi3/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/passi3/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/passi3/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/passi3/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/passi3/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/passi3/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/passi3/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/passi3/leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/passi3/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/passi3/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/passi3/leetcode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/passi3/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/passi3/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/passi3/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/passi3/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/passi3/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2706-buy-two-chocolates](https://github.com/passi3/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/passi3/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3055-maximum-odd-binary-number](https://github.com/passi3/leetcode/tree/master/3055-maximum-odd-binary-number) |
