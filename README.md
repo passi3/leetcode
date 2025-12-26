@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/passi3/Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/passi3/Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/passi3/Algorithm/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/passi3/leetcode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/passi3/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/passi3/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/passi3/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/passi3/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/passi3/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/passi3/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/passi3/leetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/passi3/leetcode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/passi3/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/passi3/leetcode/tree/master/0657-robot-return-to-origin) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/passi3/Algorithm/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/passi3/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/passi3/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/passi3/leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
