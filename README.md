@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/passi3/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/passi3/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/passi3/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2788-split-strings-by-separator](https://github.com/passi3/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/passi3/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/passi3/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/passi3/Algorithm/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/passi3/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/passi3/leetcode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/passi3/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2788-split-strings-by-separator](https://github.com/passi3/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2810-faulty-keyboard](https://github.com/passi3/leetcode/tree/master/2810-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/passi3/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3019-number-of-changing-keys](https://github.com/passi3/leetcode/tree/master/3019-number-of-changing-keys) |
