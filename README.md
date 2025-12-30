@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/passi3/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/passi3/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1944-truncate-sentence](https://github.com/passi3/leetcode/tree/master/1944-truncate-sentence) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/passi3/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/passi3/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/passi3/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/passi3/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
