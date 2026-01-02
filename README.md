@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/passi3/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/passi3/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/passi3/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/passi3/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/passi3/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/passi3/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/passi3/leetcode/tree/master/2103-rings-and-rods) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/passi3/leetcode/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/passi3/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/passi3/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/passi3/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/passi3/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2103-rings-and-rods](https://github.com/passi3/leetcode/tree/master/2103-rings-and-rods) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/passi3/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/passi3/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/passi3/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/passi3/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/passi3/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/passi3/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/passi3/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/passi3/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
