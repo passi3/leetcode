@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/passi3/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/passi3/leetcode/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/passi3/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/passi3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/passi3/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/passi3/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/passi3/Algorithm/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/passi3/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/passi3/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/passi3/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/passi3/leetcode/tree/master/1002-find-common-characters) |
