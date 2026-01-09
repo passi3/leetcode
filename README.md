@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/passi3/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/passi3/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2639-separate-the-digits-in-an-array](https://github.com/passi3/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2670-find-the-distinct-difference-array](https://github.com/passi3/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2678-number-of-senior-citizens](https://github.com/passi3/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/passi3/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2714-left-and-right-sum-differences](https://github.com/passi3/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/passi3/leetcode/tree/master/2502-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/passi3/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/passi3/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2670-find-the-distinct-difference-array](https://github.com/passi3/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/passi3/leetcode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/passi3/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/passi3/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
