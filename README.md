@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/passi3/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/passi3/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/passi3/leetcode/tree/master/2325-decode-the-message) |
+| [2351-first-letter-to-appear-twice](https://github.com/passi3/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-count-asterisks](https://github.com/passi3/leetcode/tree/master/2401-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/passi3/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/passi3/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/passi3/leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/passi3/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/passi3/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/passi3/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/passi3/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2595-number-of-even-and-odd-bits](https://github.com/passi3/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/passi3/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/passi3/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/passi3/leetcode/tree/master/2325-decode-the-message) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/passi3/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/passi3/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/passi3/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/passi3/leetcode/tree/master/2363-merge-similar-items) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/passi3/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/passi3/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/passi3/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/passi3/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/passi3/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/passi3/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/passi3/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/passi3/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
