@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/passi3/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/passi3/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/passi3/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/passi3/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/passi3/leetcode/tree/master/2325-decode-the-message) |
 | [2401-count-asterisks](https://github.com/passi3/leetcode/tree/master/2401-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/passi3/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/passi3/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/passi3/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/passi3/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/passi3/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/passi3/leetcode/tree/master/2325-decode-the-message) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/passi3/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/passi3/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/passi3/leetcode/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/passi3/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/passi3/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/passi3/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2427-number-of-common-factors](https://github.com/passi3/leetcode/tree/master/2427-number-of-common-factors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/passi3/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/passi3/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
