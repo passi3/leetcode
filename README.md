@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/passi3/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3226-minimum-number-game](https://github.com/passi3/leetcode/tree/master/3226-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/passi3/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/passi3/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/passi3/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/passi3/leetcode/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/passi3/leetcode/tree/master/3778-transform-array-by-parity) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3330-find-the-original-typed-string-i](https://github.com/passi3/leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3379-score-of-a-string](https://github.com/passi3/Algorithm/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/passi3/Algorithm/tree/master/3412-permutation-difference-between-two-strings) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/passi3/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3567-convert-date-to-binary](https://github.com/passi3/Algorithm/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/passi3/leetcode/tree/master/3636-check-balanced-string) |
 | [3692-majority-frequency-characters](https://github.com/passi3/leetcode/tree/master/3692-majority-frequency-characters) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/passi3/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3412-permutation-difference-between-two-strings](https://github.com/passi3/Algorithm/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/passi3/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/passi3/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/passi3/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/passi3/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3692-majority-frequency-characters](https://github.com/passi3/leetcode/tree/master/3692-majority-frequency-characters) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/passi3/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/passi3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/passi3/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/passi3/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3692-majority-frequency-characters](https://github.com/passi3/leetcode/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/passi3/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3778-transform-array-by-parity](https://github.com/passi3/leetcode/tree/master/3778-transform-array-by-parity) |
@@ -925,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/passi3/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3055-maximum-odd-binary-number](https://github.com/passi3/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/passi3/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/passi3/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/passi3/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Prefix Sum
 |  |
