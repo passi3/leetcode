@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/passi3/Algorithm/tree/master/2812-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/passi3/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/passi3/leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/passi3/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/passi3/Algorithm/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/passi3/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/passi3/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/passi3/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/passi3/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/passi3/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/passi3/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3151-special-array-i](https://github.com/passi3/leetcode/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/passi3/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/passi3/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
