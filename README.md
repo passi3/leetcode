@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/passi3/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/passi3/Algorithm/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/passi3/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2951-find-the-peaks](https://github.com/passi3/leetcode/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/passi3/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/passi3/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/passi3/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -977,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/passi3/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/passi3/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/passi3/leetcode/tree/master/2843-count-symmetric-integers) |
+| [2951-find-the-peaks](https://github.com/passi3/leetcode/tree/master/2951-find-the-peaks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
