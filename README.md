@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/passi3/Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/passi3/Algorithm/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/passi3/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/passi3/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/passi3/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/passi3/leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/passi3/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/passi3/Algorithm/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/passi3/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/passi3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/passi3/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/passi3/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/passi3/Algorithm_python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/passi3/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/passi3/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/passi3/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/passi3/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/passi3/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/passi3/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/passi3/Algorithm_python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/passi3/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/passi3/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/passi3/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/passi3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/passi3/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/passi3/leetcode/tree/master/0561-array-partition) |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/passi3/Algorithm/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/passi3/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/passi3/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/passi3/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/passi3/leetcode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/passi3/leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/passi3/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -698,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/passi3/Algorithm_python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/passi3/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/passi3/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/passi3/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/passi3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/passi3/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/passi3/leetcode/tree/master/0496-next-greater-element-i) |
