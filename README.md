@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/passi3/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/passi3/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/passi3/Algorithm/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/passi3/leetcode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/passi3/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/passi3/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -1029,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/passi3/leetcode/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/passi3/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/passi3/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/passi3/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
