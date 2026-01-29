@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/passi3/leetcode/tree/master/3019-number-of-changing-keys) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/passi3/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3055-maximum-odd-binary-number](https://github.com/passi3/leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/passi3/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/passi3/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/passi3/leetcode/tree/master/3174-clear-digits) |
 | [3194-find-words-containing-character](https://github.com/passi3/Algorithm/tree/master/3194-find-words-containing-character) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/passi3/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/passi3/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/passi3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/passi3/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/passi3/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/passi3/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/passi3/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/passi3/leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/passi3/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/passi3/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/passi3/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/passi3/leetcode/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/passi3/leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Counting Sort
