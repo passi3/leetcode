@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/passi3/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/passi3/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/passi3/leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/passi3/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/passi3/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/passi3/leetcode/tree/master/1002-find-common-characters) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/passi3/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/passi3/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/passi3/leetcode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/passi3/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/passi3/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/passi3/Algorithm_python/tree/master/1894-merge-strings-alternately) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/passi3/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/passi3/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0942-di-string-match](https://github.com/passi3/leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/passi3/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/passi3/leetcode/tree/master/1002-find-common-characters) |
 | [1078-occurrences-after-bigram](https://github.com/passi3/leetcode/tree/master/1078-occurrences-after-bigram) |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/passi3/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/passi3/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/passi3/leetcode/tree/master/0605-can-place-flowers) |
+| [0942-di-string-match](https://github.com/passi3/leetcode/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/passi3/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/passi3/leetcode/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/passi3/leetcode/tree/master/1710-maximum-units-on-a-truck) |
