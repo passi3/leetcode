@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/passi3/leetcode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/passi3/leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0824-goat-latin](https://github.com/passi3/leetcode/tree/master/0824-goat-latin) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/passi3/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0942-di-string-match](https://github.com/passi3/leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/passi3/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
