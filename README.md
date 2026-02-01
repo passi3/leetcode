@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/passi3/leetcode/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/passi3/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/passi3/leetcode/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/passi3/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/passi3/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/passi3/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/passi3/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/passi3/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/passi3/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/passi3/leetcode/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/passi3/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/passi3/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/passi3/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/passi3/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
