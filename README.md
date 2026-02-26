@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/passi3/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2651-calculate-delayed-arrival-time](https://github.com/passi3/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/passi3/leetcode/tree/master/2752-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/passi3/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/passi3/Algorithm/tree/master/2812-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/passi3/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/passi3/leetcode/tree/master/3055-maximum-odd-binary-number) |
