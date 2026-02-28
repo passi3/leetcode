@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/passi3/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3330-find-the-original-typed-string-i](https://github.com/passi3/leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3379-score-of-a-string](https://github.com/passi3/Algorithm/tree/master/3379-score-of-a-string) |
+| [3407-substring-matching-pattern](https://github.com/passi3/leetcode/tree/master/3407-substring-matching-pattern) |
 | [3412-permutation-difference-between-two-strings](https://github.com/passi3/Algorithm/tree/master/3412-permutation-difference-between-two-strings) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/passi3/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3567-convert-date-to-binary](https://github.com/passi3/Algorithm/tree/master/3567-convert-date-to-binary) |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/passi3/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/passi3/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/passi3/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3407-substring-matching-pattern](https://github.com/passi3/leetcode/tree/master/3407-substring-matching-pattern) |
 ## Backtracking
 |  |
 | ------- |
