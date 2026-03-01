@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/passi3/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/passi3/leetcode/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/passi3/leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/passi3/leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/passi3/leetcode/tree/master/1944-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/passi3/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/passi3/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1708-design-parking-system](https://github.com/passi3/Algorithm/tree/master/1708-design-parking-system) |
 | [1806-count-of-matches-in-tournament](https://github.com/passi3/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/passi3/leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/passi3/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/passi3/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/passi3/Algorithm/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/passi3/Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
