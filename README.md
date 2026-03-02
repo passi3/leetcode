@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/passi3/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/passi3/leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/passi3/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3280-convert-date-to-binary](https://github.com/passi3/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/passi3/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/passi3/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/passi3/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/passi3/leetcode/tree/master/3248-snake-in-matrix) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/passi3/leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/passi3/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3280-convert-date-to-binary](https://github.com/passi3/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3330-find-the-original-typed-string-i](https://github.com/passi3/leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3379-score-of-a-string](https://github.com/passi3/Algorithm/tree/master/3379-score-of-a-string) |
 | [3407-substring-matching-pattern](https://github.com/passi3/leetcode/tree/master/3407-substring-matching-pattern) |
