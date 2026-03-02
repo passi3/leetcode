@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/passi3/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/passi3/leetcode/tree/master/0742-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/passi3/leetcode/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/passi3/leetcode/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/passi3/Algorithm/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/passi3/leetcode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/passi3/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/passi3/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/passi3/leetcode/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/passi3/leetcode/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/passi3/Algorithm/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/passi3/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
