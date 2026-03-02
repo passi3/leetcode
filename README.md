@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/passi3/Algorithm/tree/master/3379-score-of-a-string) |
 | [3407-substring-matching-pattern](https://github.com/passi3/leetcode/tree/master/3407-substring-matching-pattern) |
 | [3412-permutation-difference-between-two-strings](https://github.com/passi3/Algorithm/tree/master/3412-permutation-difference-between-two-strings) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/passi3/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/passi3/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3567-convert-date-to-binary](https://github.com/passi3/Algorithm/tree/master/3567-convert-date-to-binary) |
 | [3606-coupon-code-validator](https://github.com/passi3/leetcode/tree/master/3606-coupon-code-validator) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/passi3/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3412-permutation-difference-between-two-strings](https://github.com/passi3/Algorithm/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/passi3/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/passi3/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/passi3/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/passi3/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/passi3/leetcode/tree/master/3606-coupon-code-validator) |
@@ -930,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/passi3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/passi3/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/passi3/leetcode/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/passi3/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/passi3/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3663-find-the-least-frequent-digit](https://github.com/passi3/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/passi3/leetcode/tree/master/3692-majority-frequency-characters) |
