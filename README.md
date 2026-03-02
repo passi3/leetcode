@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/passi3/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/passi3/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1408-string-matching-in-an-array](https://github.com/passi3/leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/passi3/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/passi3/leetcode/tree/master/1436-destination-city) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/passi3/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/passi3/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
