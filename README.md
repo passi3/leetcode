@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/passi3/leetcode/tree/master/1651-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/passi3/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/passi3/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/passi3/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/passi3/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/passi3/leetcode/tree/master/1720-decode-xored-array) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/passi3/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1629-slowest-key](https://github.com/passi3/leetcode/tree/master/1629-slowest-key) |
 | [1651-shuffle-string](https://github.com/passi3/leetcode/tree/master/1651-shuffle-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-reformat-phone-number](https://github.com/passi3/leetcode/tree/master/1694-reformat-phone-number) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/passi3/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/passi3/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/passi3/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/passi3/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/passi3/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/passi3/leetcode/tree/master/1720-decode-xored-array) |
 | [1763-longest-nice-substring](https://github.com/passi3/leetcode/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -837,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/passi3/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/passi3/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/passi3/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/passi3/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1763-longest-nice-substring](https://github.com/passi3/leetcode/tree/master/1763-longest-nice-substring) |
@@ -912,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/passi3/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/passi3/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/passi3/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1708-design-parking-system](https://github.com/passi3/Algorithm/tree/master/1708-design-parking-system) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/passi3/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
