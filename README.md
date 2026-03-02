@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/passi3/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2383-add-two-integers](https://github.com/passi3/Algorithm/tree/master/2383-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/passi3/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/passi3/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/passi3/leetcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/passi3/leetcode/tree/master/2469-convert-the-temperature) |
 | [2491-smallest-even-multiple](https://github.com/passi3/Algorithm/tree/master/2491-smallest-even-multiple) |
@@ -1058,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/passi3/leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/passi3/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/passi3/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/passi3/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/passi3/leetcode/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/passi3/Algorithm/tree/master/2491-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/passi3/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
