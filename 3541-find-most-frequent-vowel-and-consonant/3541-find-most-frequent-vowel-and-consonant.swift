@@ -2,8 +2,6 @@ class Solution {
     func maxFreqSum(_ s: String) -> Int {
         var v: Dictionary<Character, Int> = [:]
         var c: Dictionary<Character, Int> = [:]
-        var maxV = 0
-        var maxC = 0
         let vowels = Set("aeiou")
 
         s.forEach {
