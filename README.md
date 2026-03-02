@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/passi3/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/passi3/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/passi3/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2235-add-two-integers](https://github.com/passi3/leetcode/tree/master/2235-add-two-integers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/passi3/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/passi3/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2383-add-two-integers](https://github.com/passi3/Algorithm/tree/master/2383-add-two-integers) |
