@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/passi3/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/passi3/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/passi3/leetcode/tree/master/3778-transform-array-by-parity) |
+| [3838-weighted-word-mapping](https://github.com/passi3/leetcode/tree/master/3838-weighted-word-mapping) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/passi3/leetcode/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/passi3/leetcode/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3798-largest-even-number](https://github.com/passi3/leetcode/tree/master/3798-largest-even-number) |
 | [3811-reverse-degree-of-a-string](https://github.com/passi3/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/passi3/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/passi3/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/passi3/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/passi3/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/passi3/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/passi3/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/passi3/leetcode/tree/master/3838-weighted-word-mapping) |
 | [4058-compute-alternating-sum](https://github.com/passi3/leetcode/tree/master/4058-compute-alternating-sum) |
 ## Dynamic Programming
 |  |
