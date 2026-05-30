@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/passi3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/passi3/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/passi3/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3046-split-the-array](https://github.com/passi3/leetcode/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/passi3/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/passi3/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/passi3/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/passi3/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/passi3/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/passi3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3046-split-the-array](https://github.com/passi3/leetcode/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/passi3/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/passi3/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/passi3/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/passi3/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/passi3/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/passi3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3046-split-the-array](https://github.com/passi3/leetcode/tree/master/3046-split-the-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/passi3/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/passi3/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/passi3/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
