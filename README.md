@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/passi3/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/passi3/leetcode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/passi3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0929-unique-email-addresses](https://github.com/passi3/leetcode/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/passi3/leetcode/tree/master/0942-di-string-match) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/passi3/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/passi3/leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/passi3/leetcode/tree/master/0867-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/passi3/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/passi3/Algorithm/tree/master/1708-design-parking-system) |
 | [1806-count-of-matches-in-tournament](https://github.com/passi3/leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/passi3/leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/passi3/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/passi3/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/passi3/Algorithm/tree/master/1791-richest-customer-wealth) |
