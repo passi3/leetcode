@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/passi3/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/passi3/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/passi3/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2399-check-distances-between-same-letters](https://github.com/passi3/leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/passi3/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-number-of-arithmetic-triplets](https://github.com/passi3/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/passi3/Algorithm/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/passi3/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/passi3/leetcode/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/passi3/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2399-check-distances-between-same-letters](https://github.com/passi3/leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2401-count-asterisks](https://github.com/passi3/leetcode/tree/master/2401-count-asterisks) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/passi3/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2470-removing-stars-from-a-string](https://github.com/passi3/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/passi3/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/passi3/leetcode/tree/master/2363-merge-similar-items) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/passi3/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2399-check-distances-between-same-letters](https://github.com/passi3/leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/passi3/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/passi3/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-number-of-arithmetic-triplets](https://github.com/passi3/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
