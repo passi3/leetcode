@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/passi3/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/passi3/leetcode/tree/master/3830-find-closest-person) |
 | [3875-construct-uniform-parity-array-i](https://github.com/passi3/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3908-valid-digit-number](https://github.com/passi3/leetcode/tree/master/3908-valid-digit-number) |
 ## Binary Search
 |  |
 | ------- |
