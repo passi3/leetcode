@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/passi3/Algorithm/tree/master/2556-convert-the-temperature) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/passi3/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2571-find-the-pivot-integer](https://github.com/passi3/leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2578-split-with-minimum-sum](https://github.com/passi3/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/passi3/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/passi3/leetcode/tree/master/2752-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/passi3/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/passi3/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/passi3/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-sort-the-people](https://github.com/passi3/leetcode/tree/master/2502-sort-the-people) |
+| [2578-split-with-minimum-sum](https://github.com/passi3/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/passi3/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/passi3/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/passi3/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -1161,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/passi3/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/passi3/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/passi3/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2578-split-with-minimum-sum](https://github.com/passi3/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/passi3/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2706-buy-two-chocolates](https://github.com/passi3/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/passi3/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
