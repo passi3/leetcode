@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/passi3/leetcode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/passi3/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3921-score-validator](https://github.com/passi3/leetcode/tree/master/3921-score-validator) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/passi3/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/passi3/leetcode/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/passi3/leetcode/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/passi3/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/passi3/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/passi3/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/passi3/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sorting
 |  |
 | ------- |
