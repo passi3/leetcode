@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/passi3/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/passi3/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/passi3/leetcode/tree/master/3798-largest-even-number) |
+| [3803-count-residue-prefixes](https://github.com/passi3/leetcode/tree/master/3803-count-residue-prefixes) |
 | [3811-reverse-degree-of-a-string](https://github.com/passi3/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/passi3/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/passi3/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -989,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/passi3/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/passi3/leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/passi3/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3803-count-residue-prefixes](https://github.com/passi3/leetcode/tree/master/3803-count-residue-prefixes) |
 | [3842-toggle-light-bulbs](https://github.com/passi3/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/passi3/leetcode/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/passi3/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
