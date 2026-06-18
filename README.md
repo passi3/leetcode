@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/passi3/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/passi3/leetcode/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/passi3/leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/passi3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0929-unique-email-addresses](https://github.com/passi3/leetcode/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/passi3/leetcode/tree/master/0942-di-string-match) |
