@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/passi3/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/passi3/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/passi3/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1903-largest-odd-number-in-string](https://github.com/passi3/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/passi3/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/passi3/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/passi3/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/passi3/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/passi3/leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1894-merge-strings-alternately](https://github.com/passi3/Algorithm_python/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/passi3/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/passi3/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/passi3/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1944-truncate-sentence](https://github.com/passi3/leetcode/tree/master/1944-truncate-sentence) |
@@ -1190,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/passi3/leetcode/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/passi3/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/passi3/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1903-largest-odd-number-in-string](https://github.com/passi3/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/passi3/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/passi3/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/passi3/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
