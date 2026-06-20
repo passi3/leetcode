@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/passi3/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/passi3/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/passi3/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/passi3/leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/passi3/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/passi3/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/passi3/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
