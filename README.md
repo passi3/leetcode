@@ -754,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/passi3/leetcode/tree/master/3606-coupon-code-validator) |
 | [3636-check-balanced-string](https://github.com/passi3/leetcode/tree/master/3636-check-balanced-string) |
 | [3692-majority-frequency-characters](https://github.com/passi3/leetcode/tree/master/3692-majority-frequency-characters) |
+| [3707-equal-score-substrings](https://github.com/passi3/leetcode/tree/master/3707-equal-score-substrings) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/passi3/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/passi3/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/passi3/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1245,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/passi3/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/passi3/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/passi3/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3707-equal-score-substrings](https://github.com/passi3/leetcode/tree/master/3707-equal-score-substrings) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/passi3/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Sliding Window
 |  |
