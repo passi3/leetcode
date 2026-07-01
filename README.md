@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/passi3/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/passi3/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/passi3/Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/passi3/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/passi3/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/passi3/leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/passi3/leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/passi3/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/passi3/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/passi3/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/passi3/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/passi3/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/passi3/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/passi3/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -1228,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/passi3/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/passi3/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/passi3/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/passi3/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/passi3/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/passi3/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/passi3/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
