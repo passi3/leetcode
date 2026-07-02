@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/passi3/Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/passi3/Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/passi3/Algorithm/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/passi3/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/passi3/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/passi3/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/passi3/leetcode/tree/master/0268-missing-number) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/passi3/Algorithm/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/passi3/Algorithm/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/passi3/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/passi3/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/passi3/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/passi3/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/passi3/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
