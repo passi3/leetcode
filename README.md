@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/passi3/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/passi3/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/passi3/Algorithm/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/passi3/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/passi3/leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2917-find-the-k-or-of-an-array](https://github.com/passi3/leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/passi3/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/passi3/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2810-faulty-keyboard](https://github.com/passi3/leetcode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/passi3/leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/passi3/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2942-find-words-containing-character](https://github.com/passi3/leetcode/tree/master/2942-find-words-containing-character) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/passi3/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3019-number-of-changing-keys](https://github.com/passi3/leetcode/tree/master/3019-number-of-changing-keys) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/passi3/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/passi3/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/passi3/leetcode/tree/master/1025-divisor-game) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/passi3/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1250,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/passi3/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2706-buy-two-chocolates](https://github.com/passi3/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/passi3/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/passi3/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3055-maximum-odd-binary-number](https://github.com/passi3/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/passi3/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/passi3/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
