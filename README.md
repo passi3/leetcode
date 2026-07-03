@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/passi3/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/passi3/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/passi3/Algorithm/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/passi3/leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2917-find-the-k-or-of-an-array](https://github.com/passi3/leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/passi3/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/passi3/leetcode/tree/master/2942-find-words-containing-character) |
