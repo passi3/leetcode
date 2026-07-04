@@ -833,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/passi3/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/passi3/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/passi3/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3827-count-monobit-integers](https://github.com/passi3/leetcode/tree/master/3827-count-monobit-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -1322,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/passi3/leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/passi3/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/passi3/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3827-count-monobit-integers](https://github.com/passi3/leetcode/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/passi3/leetcode/tree/master/3833-count-dominant-indices) |
 ## Heap (Priority Queue)
 |  |
