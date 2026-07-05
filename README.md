@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/passi3/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/passi3/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/passi3/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/passi3/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/passi3/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/passi3/leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/passi3/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/passi3/Algorithm/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/passi3/Algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/passi3/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/passi3/leetcode/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/passi3/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Array
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/passi3/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/passi3/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/passi3/leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/passi3/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/passi3/leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/passi3/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/passi3/leetcode/tree/master/0476-number-complement) |
