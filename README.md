@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3861-minimum-capacity-box](https://github.com/passi3/leetcode/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/passi3/leetcode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/passi3/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/passi3/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3921-score-validator](https://github.com/passi3/leetcode/tree/master/3921-score-validator) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/passi3/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/passi3/leetcode/tree/master/4012-earliest-time-to-finish-one-task) |
@@ -1334,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/passi3/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/passi3/leetcode/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/passi3/leetcode/tree/master/3833-count-dominant-indices) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/passi3/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
