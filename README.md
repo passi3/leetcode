@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/passi3/leetcode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/passi3/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/passi3/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3903-smallest-stable-index-i](https://github.com/passi3/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3921-score-validator](https://github.com/passi3/leetcode/tree/master/3921-score-validator) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/passi3/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/passi3/leetcode/tree/master/4012-earliest-time-to-finish-one-task) |
@@ -1295,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/passi3/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3707-equal-score-substrings](https://github.com/passi3/leetcode/tree/master/3707-equal-score-substrings) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/passi3/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3903-smallest-stable-index-i](https://github.com/passi3/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sliding Window
 |  |
 | ------- |
