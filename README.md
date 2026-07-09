@@ -698,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/passi3/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/passi3/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/passi3/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/passi3/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/passi3/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1844-replace-all-digits-with-characters](https://github.com/passi3/leetcode/tree/master/1844-replace-all-digits-with-characters) |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/passi3/leetcode/tree/master/1763-longest-nice-substring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/passi3/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/passi3/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/passi3/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/passi3/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/passi3/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
