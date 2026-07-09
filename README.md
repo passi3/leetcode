@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/passi3/leetcode/tree/master/3174-clear-digits) |
 | [3194-find-words-containing-character](https://github.com/passi3/Algorithm/tree/master/3194-find-words-containing-character) |
 | [3210-find-the-encrypted-string](https://github.com/passi3/leetcode/tree/master/3210-find-the-encrypted-string) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/passi3/leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3248-snake-in-matrix](https://github.com/passi3/leetcode/tree/master/3248-snake-in-matrix) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/passi3/leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/passi3/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -1277,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/passi3/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3055-maximum-odd-binary-number](https://github.com/passi3/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/passi3/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/passi3/leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/passi3/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/passi3/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/passi3/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
