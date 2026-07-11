@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/passi3/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/passi3/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/passi3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/passi3/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3028-ant-on-the-boundary](https://github.com/passi3/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/passi3/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3046-split-the-array](https://github.com/passi3/leetcode/tree/master/3046-split-the-array) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/passi3/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/passi3/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/passi3/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/passi3/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/passi3/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/passi3/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3226-minimum-number-game](https://github.com/passi3/leetcode/tree/master/3226-minimum-number-game) |
@@ -1350,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/passi3/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/passi3/leetcode/tree/master/2843-count-symmetric-integers) |
 | [2951-find-the-peaks](https://github.com/passi3/leetcode/tree/master/2951-find-the-peaks) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/passi3/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/passi3/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/passi3/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/passi3/leetcode/tree/master/3827-count-monobit-integers) |
