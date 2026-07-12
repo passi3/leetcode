@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/passi3/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1646-get-maximum-in-generated-array](https://github.com/passi3/leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1651-shuffle-string](https://github.com/passi3/leetcode/tree/master/1651-shuffle-string) |
+| [1652-defuse-the-bomb](https://github.com/passi3/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/passi3/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/passi3/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -1324,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/passi3/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/passi3/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/passi3/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/passi3/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/passi3/leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/passi3/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/passi3/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
