@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/passi3/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/passi3/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/passi3/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/passi3/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/passi3/leetcode/tree/master/1720-decode-xored-array) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/passi3/leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/passi3/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/passi3/leetcode/tree/master/1518-water-bottles) |
 | [1646-get-maximum-in-generated-array](https://github.com/passi3/leetcode/tree/master/1646-get-maximum-in-generated-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/passi3/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1708-design-parking-system](https://github.com/passi3/Algorithm/tree/master/1708-design-parking-system) |
 | [1806-count-of-matches-in-tournament](https://github.com/passi3/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/passi3/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/passi3/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/passi3/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/passi3/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/passi3/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/passi3/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/passi3/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/passi3/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -1421,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/passi3/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/passi3/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/passi3/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/passi3/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Brainteaser
 |  |
 | ------- |
