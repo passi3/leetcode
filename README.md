@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/passi3/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/passi3/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/passi3/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/passi3/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/passi3/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/passi3/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3379-transformed-array](https://github.com/passi3/leetcode/tree/master/3379-transformed-array) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/passi3/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/passi3/leetcode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/passi3/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/passi3/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/passi3/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/passi3/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/passi3/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
