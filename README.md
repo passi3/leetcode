@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/passi3/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3903-smallest-stable-index-i](https://github.com/passi3/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3921-score-validator](https://github.com/passi3/leetcode/tree/master/3921-score-validator) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/passi3/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/passi3/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/passi3/leetcode/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/passi3/leetcode/tree/master/4058-compute-alternating-sum) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/passi3/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/passi3/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/passi3/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/passi3/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/passi3/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sorting
 |  |
