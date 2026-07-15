@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/passi3/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/passi3/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/passi3/leetcode/tree/master/1436-destination-city) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/passi3/leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/passi3/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/passi3/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/passi3/leetcode/tree/master/1470-shuffle-the-array) |
