@@ -873,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/passi3/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/passi3/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3827-count-monobit-integers](https://github.com/passi3/leetcode/tree/master/3827-count-monobit-integers) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/passi3/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Simulation
 |  |
 | ------- |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/passi3/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/passi3/leetcode/tree/master/1025-divisor-game) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/passi3/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/passi3/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1378,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-count-monobit-integers](https://github.com/passi3/leetcode/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/passi3/leetcode/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/passi3/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/passi3/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
