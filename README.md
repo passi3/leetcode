@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/passi3/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2639-separate-the-digits-in-an-array](https://github.com/passi3/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/passi3/leetcode/tree/master/2643-row-with-maximum-ones) |
+| [2644-find-the-maximum-divisibility-score](https://github.com/passi3/leetcode/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2670-find-the-distinct-difference-array](https://github.com/passi3/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2678-number-of-senior-citizens](https://github.com/passi3/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/passi3/leetcode/tree/master/2706-buy-two-chocolates) |
