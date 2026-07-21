@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/passi3/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/passi3/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/passi3/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/passi3/leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/passi3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/passi3/leetcode/tree/master/0917-reverse-only-letters) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/passi3/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0824-goat-latin](https://github.com/passi3/leetcode/tree/master/0824-goat-latin) |
+| [0844-backspace-string-compare](https://github.com/passi3/leetcode/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/passi3/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/passi3/leetcode/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/passi3/leetcode/tree/master/0929-unique-email-addresses) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/passi3/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/passi3/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/passi3/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/passi3/leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/passi3/leetcode/tree/master/0867-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/passi3/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -973,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/passi3/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/passi3/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/passi3/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/passi3/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/passi3/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/passi3/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/passi3/leetcode/tree/master/1544-make-the-string-great) |
