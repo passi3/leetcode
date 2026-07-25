@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/passi3/leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1651-shuffle-string](https://github.com/passi3/leetcode/tree/master/1651-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/passi3/leetcode/tree/master/1652-defuse-the-bomb) |
+| [1656-design-an-ordered-stream](https://github.com/passi3/leetcode/tree/master/1656-design-an-ordered-stream) |
 | [1672-richest-customer-wealth](https://github.com/passi3/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/passi3/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -1046,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/passi3/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/passi3/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1656-design-an-ordered-stream](https://github.com/passi3/leetcode/tree/master/1656-design-an-ordered-stream) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/passi3/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/passi3/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/passi3/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -1316,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/passi3/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/passi3/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1656-design-an-ordered-stream](https://github.com/passi3/leetcode/tree/master/1656-design-an-ordered-stream) |
 | [1708-design-parking-system](https://github.com/passi3/Algorithm/tree/master/1708-design-parking-system) |
 ## Greedy
 |  |
@@ -1492,4 +1495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/passi3/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/passi3/leetcode/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
