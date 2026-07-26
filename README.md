@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/passi3/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0908-smallest-range-i](https://github.com/passi3/leetcode/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/passi3/leetcode/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/passi3/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/passi3/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/passi3/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/passi3/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/passi3/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/passi3/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/passi3/leetcode/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/passi3/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/passi3/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/passi3/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/passi3/Algorithm/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/passi3/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/passi3/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
