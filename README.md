@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/passi3/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/passi3/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/passi3/leetcode/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/passi3/leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/passi3/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/passi3/leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/passi3/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -1037,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/passi3/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/passi3/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/passi3/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0697-degree-of-an-array](https://github.com/passi3/leetcode/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/passi3/leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/passi3/leetcode/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/passi3/Algorithm/tree/master/0782-jewels-and-stones) |
