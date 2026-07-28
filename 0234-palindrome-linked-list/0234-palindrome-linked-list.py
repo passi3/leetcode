@@ -6,8 +6,9 @@
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
         stack = []
-        while head != None:
-            stack.append(head.val)
-            head = head.next
+        curr = head
+        while curr:
+            stack.append(curr.val)
+            curr = curr.next
         
         return stack == stack[::-1]
