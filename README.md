@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/passi3/Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/passi3/Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/passi3/Algorithm/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/passi3/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/passi3/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/passi3/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/passi3/Algorithm/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/passi3/Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/passi3/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/passi3/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/passi3/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/passi3/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/passi3/leetcode/tree/master/0509-fibonacci-number) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/passi3/Algorithm/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/passi3/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/passi3/leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/passi3/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/passi3/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/passi3/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/passi3/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1003,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/passi3/Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/passi3/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/passi3/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/passi3/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/passi3/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/passi3/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/passi3/leetcode/tree/master/0844-backspace-string-compare) |
