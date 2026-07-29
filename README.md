@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/passi3/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2571-find-the-pivot-integer](https://github.com/passi3/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2578-split-with-minimum-sum](https://github.com/passi3/leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2582-pass-the-pillow](https://github.com/passi3/leetcode/tree/master/2582-pass-the-pillow) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/passi3/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/passi3/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/passi3/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/passi3/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/passi3/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2562-find-the-array-concatenation-value](https://github.com/passi3/leetcode/tree/master/2562-find-the-array-concatenation-value) |
+| [2582-pass-the-pillow](https://github.com/passi3/leetcode/tree/master/2582-pass-the-pillow) |
 | [2639-separate-the-digits-in-an-array](https://github.com/passi3/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/passi3/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2717-semi-ordered-permutation](https://github.com/passi3/leetcode/tree/master/2717-semi-ordered-permutation) |
