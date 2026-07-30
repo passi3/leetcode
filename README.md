@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/passi3/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/passi3/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-number-of-arithmetic-triplets](https://github.com/passi3/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/passi3/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/passi3/leetcode/tree/master/2451-odd-string-difference) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/passi3/Algorithm/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/passi3/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/passi3/leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2401-count-asterisks](https://github.com/passi3/leetcode/tree/master/2401-count-asterisks) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/passi3/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/passi3/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/passi3/leetcode/tree/master/2451-odd-string-difference) |
 | [2470-removing-stars-from-a-string](https://github.com/passi3/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/passi3/leetcode/tree/master/2490-circular-sentence) |
