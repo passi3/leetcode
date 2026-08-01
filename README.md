@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/passi3/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/passi3/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/passi3/leetcode/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/passi3/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/passi3/leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/passi3/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/passi3/leetcode/tree/master/0520-detect-capital) |
@@ -1475,6 +1476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/passi3/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/passi3/leetcode/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/passi3/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/passi3/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
