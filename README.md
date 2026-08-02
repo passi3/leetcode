@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/passi3/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/passi3/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1970-sorting-the-sentence](https://github.com/passi3/leetcode/tree/master/1970-sorting-the-sentence) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/passi3/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/passi3/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2027-minimum-moves-to-convert-string](https://github.com/passi3/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/passi3/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -1384,6 +1385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/passi3/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/passi3/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/passi3/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/passi3/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2027-minimum-moves-to-convert-string](https://github.com/passi3/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/passi3/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/passi3/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
