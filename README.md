@@ -851,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/passi3/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/passi3/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/passi3/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2937-make-three-strings-equal](https://github.com/passi3/leetcode/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/passi3/leetcode/tree/master/2942-find-words-containing-character) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/passi3/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3019-number-of-changing-keys](https://github.com/passi3/leetcode/tree/master/3019-number-of-changing-keys) |
