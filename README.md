@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/passi3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/passi3/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/passi3/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/passi3/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/passi3/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/passi3/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/passi3/leetcode/tree/master/0500-keyboard-row) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/passi3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/passi3/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/passi3/leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/passi3/leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/passi3/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/passi3/leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/passi3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/passi3/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/passi3/leetcode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/passi3/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/passi3/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/passi3/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/passi3/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -1392,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/passi3/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0455-assign-cookies](https://github.com/passi3/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/passi3/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/passi3/leetcode/tree/master/0605-can-place-flowers) |
 | [0942-di-string-match](https://github.com/passi3/leetcode/tree/master/0942-di-string-match) |
@@ -1578,4 +1582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/passi3/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/passi3/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
