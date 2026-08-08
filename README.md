@@ -811,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/passi3/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/passi3/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1844-replace-all-digits-with-characters](https://github.com/passi3/leetcode/tree/master/1844-replace-all-digits-with-characters) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/passi3/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/passi3/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/passi3/leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1894-merge-strings-alternately](https://github.com/passi3/Algorithm_python/tree/master/1894-merge-strings-alternately) |
