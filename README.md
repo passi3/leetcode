@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/passi3/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/passi3/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/passi3/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/passi3/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/passi3/Algorithm/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3477-fruits-into-baskets-ii](https://github.com/passi3/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/passi3/leetcode/tree/master/3502-minimum-cost-to-reach-every-position) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/passi3/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/passi3/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/passi3/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/passi3/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1032,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/passi3/leetcode/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/passi3/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/passi3/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/passi3/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/passi3/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/passi3/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/passi3/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -1207,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/passi3/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/passi3/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/passi3/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/passi3/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/passi3/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/passi3/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/passi3/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1534,6 +1538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/passi3/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/passi3/leetcode/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/passi3/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/passi3/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String Matching
 |  |
 | ------- |
@@ -1583,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2363-merge-similar-items](https://github.com/passi3/leetcode/tree/master/2363-merge-similar-items) |
 | [3477-fruits-into-baskets-ii](https://github.com/passi3/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/passi3/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Queue
 |  |
 | ------- |
@@ -1615,4 +1621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/passi3/leetcode/tree/master/0455-assign-cookies) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/passi3/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
