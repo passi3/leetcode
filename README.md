@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/passi3/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/passi3/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3903-smallest-stable-index-i](https://github.com/passi3/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3912-valid-elements-in-an-array](https://github.com/passi3/leetcode/tree/master/3912-valid-elements-in-an-array) |
 | [3921-score-validator](https://github.com/passi3/leetcode/tree/master/3921-score-validator) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/passi3/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/passi3/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
