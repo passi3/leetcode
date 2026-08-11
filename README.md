@@ -765,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/passi3/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0824-goat-latin](https://github.com/passi3/leetcode/tree/master/0824-goat-latin) |
+| [0830-positions-of-large-groups](https://github.com/passi3/leetcode/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/passi3/leetcode/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/passi3/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/passi3/leetcode/tree/master/0917-reverse-only-letters) |
