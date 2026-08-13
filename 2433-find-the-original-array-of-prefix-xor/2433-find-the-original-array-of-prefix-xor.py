@@ -1,9 +1,10 @@
 class Solution:
     def findArray(self, pref: List[int]) -> List[int]:
-        res = []
-        curr = 0
-        for num in pref:
-            res.append(num^curr)
-            curr = num
+        if len(pref) == 1:
+            return pref
+        
+        res = [pref[0]]
+        for i in range(1, len(pref)):
+            res.append(pref[i-1]^pref[i])
         
         return res
