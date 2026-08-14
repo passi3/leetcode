@@ -693,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/passi3/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/passi3/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/passi3/leetcode/tree/master/0965-univalued-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/passi3/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/passi3/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/passi3/Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/passi3/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0965-univalued-binary-tree](https://github.com/passi3/leetcode/tree/master/0965-univalued-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/passi3/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/passi3/Algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/passi3/Algorithm/tree/master/0112-path-sum) |
 | [0965-univalued-binary-tree](https://github.com/passi3/leetcode/tree/master/0965-univalued-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/passi3/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/passi3/Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/passi3/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/passi3/leetcode/tree/master/0965-univalued-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/passi3/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/passi3/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Divide and Conquer
 |  |
