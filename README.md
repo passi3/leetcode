@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/passi3/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/passi3/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2639-separate-the-digits-in-an-array](https://github.com/passi3/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/passi3/leetcode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/passi3/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/passi3/leetcode/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/passi3/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -1446,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/passi3/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/passi3/Algorithm/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/passi3/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/passi3/leetcode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/passi3/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3033-modify-the-matrix](https://github.com/passi3/leetcode/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/passi3/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
