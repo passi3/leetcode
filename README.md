@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/passi3/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-min-max-game](https://github.com/passi3/leetcode/tree/master/2293-min-max-game) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/passi3/leetcode/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/passi3/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/passi3/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/passi3/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/passi3/leetcode/tree/master/2363-merge-similar-items) |
@@ -1451,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/passi3/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/passi3/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/passi3/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/passi3/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/passi3/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/passi3/Algorithm/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/passi3/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
