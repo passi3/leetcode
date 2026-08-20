@@ -850,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/passi3/leetcode/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/passi3/leetcode/tree/master/1446-consecutive-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/passi3/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1496-path-crossing](https://github.com/passi3/leetcode/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/passi3/leetcode/tree/master/1507-reformat-date) |
 | [1544-make-the-string-great](https://github.com/passi3/leetcode/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/passi3/leetcode/tree/master/1556-thousand-separator) |
@@ -1204,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/passi3/leetcode/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/passi3/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/passi3/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1496-path-crossing](https://github.com/passi3/leetcode/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/passi3/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/passi3/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1635-number-of-good-pairs](https://github.com/passi3/Algorithm/tree/master/1635-number-of-good-pairs) |
