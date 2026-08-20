@@ -1,13 +1,14 @@
 class Solution:
     def countQuadruplets(self, nums: List[int]) -> int:
         res = 0
+        cnt = defaultdict(int)
         n = len(nums)
-        
-        for i in range(n-3):
-            for j in range(i+1, n-2):
-                for k in range(j+1, n-1):
-                    for l in range(k+1, n):
-                        if nums[i] + nums[j] + nums[k] == nums[l]:
-                            res += 1
+
+        for b in range(n-3, 0, -1):
+            for d in range(b+2, n):
+                cnt[nums[d] - nums[b+1]] += 1
+
+            for a in range(b):
+                res += cnt[nums[a] + nums[b]]
         
         return res
