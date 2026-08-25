@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/passi3/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/passi3/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/passi3/leetcode/tree/master/1002-find-common-characters) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/passi3/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1051-height-checker](https://github.com/passi3/leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/passi3/leetcode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/passi3/leetcode/tree/master/1122-relative-sort-array) |
@@ -1030,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
 | [0868-binary-gap](https://github.com/passi3/leetcode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/passi3/leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/passi3/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/passi3/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/passi3/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/passi3/leetcode/tree/master/1486-xor-operation-in-an-array) |
