@@ -1,13 +1,9 @@
 class Solution:
     def prefixesDivBy5(self, nums: List[int]) -> List[bool]:
         res = []
-        num = ""
+        curr = 0
 
-        for n in nums:
-            num += str(n)
-            if int(num, 2) % 5 == 0:
-                res.append(True)
-            else:
-                res.append(False)
-        
+        for bit in nums:
+            curr = (curr * 2 + bit) % 5
+            res.append(curr == 0)
         return res
