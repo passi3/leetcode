@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/passi3/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/passi3/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/passi3/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/passi3/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/passi3/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/passi3/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/passi3/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/passi3/leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/passi3/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/passi3/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/passi3/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/passi3/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/passi3/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/passi3/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -1541,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/passi3/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/passi3/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/passi3/leetcode/tree/master/0942-di-string-match) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/passi3/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/passi3/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/passi3/leetcode/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/passi3/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
