@@ -728,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/passi3/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/passi3/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/passi3/leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/passi3/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/passi3/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/passi3/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/passi3/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/passi3/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/passi3/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/passi3/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/passi3/leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/passi3/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
