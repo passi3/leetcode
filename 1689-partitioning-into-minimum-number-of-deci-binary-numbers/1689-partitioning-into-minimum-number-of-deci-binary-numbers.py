@@ -1,4 +1,5 @@
 class Solution:
     def minPartitions(self, n: str) -> int:
-        nums = map(int, list(n))
-        return max(nums)
+        for char in "9876543210":
+            if char in n:
+                return int(char)
