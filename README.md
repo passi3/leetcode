@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/passi3/leetcode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/passi3/leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/passi3/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/passi3/leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/passi3/leetcode/tree/master/0896-monotonic-array) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/passi3/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/passi3/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/passi3/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/passi3/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/passi3/leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/passi3/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/passi3/leetcode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/passi3/leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/passi3/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/passi3/leetcode/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/passi3/leetcode/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/passi3/leetcode/tree/master/0844-backspace-string-compare) |
