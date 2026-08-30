@@ -1,13 +1,18 @@
 class Solution:
     def shortestToChar(self, s: str, c: str) -> List[int]:
-        res = []
-        cIndices = []
+        n = len(s)
+        res = [float("inf")] * n
+        pos = float("-inf")
         for i, char in enumerate(s):
             if char == c:
-                cIndices.append(i)
+                pos = i
+            res[i] = i - pos
         
-        for i in range(len(s)):
-            dist = min([abs(i-idx) for idx in cIndices])
-            res.append(dist)
+        pos = float("inf")
+
+        for j in range(n-1, -1, -1):
+            if s[j] == c:
+                pos = j
+            res[j] = min(res[j], pos-j)
 
         return res
