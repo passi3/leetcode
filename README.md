@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/passi3/leetcode/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/passi3/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/passi3/leetcode/tree/master/0929-unique-email-addresses) |
+| [0941-valid-mountain-array](https://github.com/passi3/leetcode/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/passi3/leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/passi3/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/passi3/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
