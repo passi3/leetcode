@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/passi3/leetcode/tree/master/3830-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/passi3/leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/passi3/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/passi3/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/passi3/leetcode/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/passi3/leetcode/tree/master/3908-valid-digit-number) |
 ## Binary Search
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3861-minimum-capacity-box](https://github.com/passi3/leetcode/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/passi3/leetcode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/passi3/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/passi3/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/passi3/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/passi3/leetcode/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/passi3/leetcode/tree/master/3903-smallest-stable-index-i) |
