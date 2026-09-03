@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/passi3/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/passi3/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/passi3/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/passi3/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/passi3/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/passi3/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/passi3/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -1267,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/passi3/leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/passi3/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/passi3/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/passi3/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1319-unique-number-of-occurrences](https://github.com/passi3/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/passi3/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/passi3/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -1588,6 +1590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/passi3/leetcode/tree/master/0942-di-string-match) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/passi3/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/passi3/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/passi3/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/passi3/leetcode/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/passi3/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/passi3/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
