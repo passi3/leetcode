@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/passi3/Algorithm/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/passi3/leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/passi3/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/passi3/Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/passi3/Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/passi3/Algorithm/tree/master/0070-climbing-stairs) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/passi3/Algorithm_python/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/passi3/leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/passi3/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/passi3/Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/passi3/Algorithm/tree/master/0118-pascals-triangle) |
@@ -1560,6 +1562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/passi3/leetcode/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/passi3/leetcode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/passi3/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
