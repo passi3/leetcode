@@ -1623,6 +1623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/passi3/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/passi3/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/passi3/leetcode/tree/master/0706-design-hashmap) |
+| [0933-number-of-recent-calls](https://github.com/passi3/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1656-design-an-ordered-stream](https://github.com/passi3/leetcode/tree/master/1656-design-an-ordered-stream) |
 | [1708-design-parking-system](https://github.com/passi3/Algorithm/tree/master/1708-design-parking-system) |
 ## Greedy
@@ -1822,6 +1823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/passi3/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/passi3/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/passi3/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/passi3/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/passi3/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Brainteaser
 |  |
@@ -1841,6 +1843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/passi3/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/passi3/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1656-design-an-ordered-stream](https://github.com/passi3/leetcode/tree/master/1656-design-an-ordered-stream) |
 ## Interactive
 |  |
