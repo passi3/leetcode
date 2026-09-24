@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/passi3/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/passi3/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/passi3/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/passi3/leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2639-separate-the-digits-in-an-array](https://github.com/passi3/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/passi3/leetcode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/passi3/leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -1379,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/passi3/leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/passi3/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/passi3/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/passi3/leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/passi3/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/passi3/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/passi3/leetcode/tree/master/2716-minimize-string-length) |
