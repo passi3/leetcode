@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3940-limit-occurrences-in-sorted-array](https://github.com/passi3/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/passi3/leetcode/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4020-elevator-requests-i](https://github.com/passi3/leetcode/tree/master/4020-elevator-requests-i) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/passi3/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4058-compute-alternating-sum](https://github.com/passi3/leetcode/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
 |  |
@@ -1426,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/passi3/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/passi3/leetcode/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/passi3/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/passi3/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Counting
 |  |
 | ------- |
