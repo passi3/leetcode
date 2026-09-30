@@ -1010,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/passi3/leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/passi3/leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/passi3/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/passi3/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/passi3/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/passi3/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/passi3/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -1657,6 +1658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/passi3/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/passi3/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/passi3/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/passi3/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/passi3/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/passi3/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/passi3/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
