@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/passi3/leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/passi3/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/passi3/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3242-design-neighbor-sum-service](https://github.com/passi3/leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3248-snake-in-matrix](https://github.com/passi3/leetcode/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/passi3/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/passi3/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -1202,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/passi3/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/passi3/leetcode/tree/master/3174-clear-digits) |
 | [3226-minimum-number-game](https://github.com/passi3/leetcode/tree/master/3226-minimum-number-game) |
+| [3242-design-neighbor-sum-service](https://github.com/passi3/leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3248-snake-in-matrix](https://github.com/passi3/leetcode/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/passi3/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/passi3/leetcode/tree/master/3271-hash-divided-string) |
@@ -1401,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/passi3/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/passi3/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/passi3/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-design-neighbor-sum-service](https://github.com/passi3/leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/passi3/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/passi3/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/passi3/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -1606,6 +1609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/passi3/leetcode/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/passi3/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3227-find-missing-and-repeated-values](https://github.com/passi3/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-design-neighbor-sum-service](https://github.com/passi3/leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/passi3/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3643-flip-square-submatrix-vertically](https://github.com/passi3/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Number Theory
@@ -1634,6 +1638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/passi3/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1656-design-an-ordered-stream](https://github.com/passi3/leetcode/tree/master/1656-design-an-ordered-stream) |
 | [1708-design-parking-system](https://github.com/passi3/Algorithm/tree/master/1708-design-parking-system) |
+| [3242-design-neighbor-sum-service](https://github.com/passi3/leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Greedy
 |  |
 | ------- |
