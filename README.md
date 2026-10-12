@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4020-elevator-requests-i](https://github.com/passi3/leetcode/tree/master/4020-elevator-requests-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/passi3/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4058-compute-alternating-sum](https://github.com/passi3/leetcode/tree/master/4058-compute-alternating-sum) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/passi3/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/passi3/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/passi3/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3842-toggle-light-bulbs](https://github.com/passi3/leetcode/tree/master/3842-toggle-light-bulbs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/passi3/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Tree
 |  |
 | ------- |
@@ -1235,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3921-score-validator](https://github.com/passi3/leetcode/tree/master/3921-score-validator) |
 | [4020-elevator-requests-i](https://github.com/passi3/leetcode/tree/master/4020-elevator-requests-i) |
 | [4058-compute-alternating-sum](https://github.com/passi3/leetcode/tree/master/4058-compute-alternating-sum) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/passi3/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1444,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/passi3/leetcode/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/passi3/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/passi3/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/passi3/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
@@ -1508,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/passi3/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/passi3/leetcode/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/passi3/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/passi3/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Database
 |  |
 | ------- |
@@ -1790,6 +1795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/passi3/leetcode/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/passi3/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/passi3/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/passi3/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String Matching
 |  |
 | ------- |
@@ -1849,6 +1855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/passi3/leetcode/tree/master/2363-merge-similar-items) |
 | [3477-fruits-into-baskets-ii](https://github.com/passi3/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/passi3/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/passi3/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Queue
 |  |
 | ------- |
