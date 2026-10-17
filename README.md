@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/passi3/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/passi3/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/passi3/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/passi3/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/passi3/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/passi3/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/passi3/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/passi3/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/passi3/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/passi3/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/passi3/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/passi3/leetcode/tree/master/3606-coupon-code-validator) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/passi3/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/passi3/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -1434,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/passi3/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/passi3/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/passi3/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/passi3/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/passi3/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/passi3/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/passi3/leetcode/tree/master/3606-coupon-code-validator) |
