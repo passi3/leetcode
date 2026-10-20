@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/passi3/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/passi3/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/passi3/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0812-largest-triangle-area](https://github.com/passi3/leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/passi3/leetcode/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/passi3/leetcode/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/passi3/leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/passi3/leetcode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/passi3/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/passi3/leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/passi3/leetcode/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/passi3/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/passi3/leetcode/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/passi3/leetcode/tree/master/0867-transpose-matrix) |
@@ -1834,6 +1836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/passi3/leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/passi3/leetcode/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/passi3/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/passi3/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -1910,6 +1913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/passi3/leetcode/tree/master/0812-largest-triangle-area) |
 | [3024-type-of-triangle](https://github.com/passi3/leetcode/tree/master/3024-type-of-triangle) |
 ## DP on Trees
 |  |
