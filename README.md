@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3921-score-validator](https://github.com/passi3/leetcode/tree/master/3921-score-validator) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/passi3/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/passi3/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/passi3/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/passi3/leetcode/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4020-elevator-requests-i](https://github.com/passi3/leetcode/tree/master/4020-elevator-requests-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/passi3/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
